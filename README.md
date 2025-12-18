@@ -28,28 +28,4 @@ It's a simple project to practice:
 ```bash
 python vocab_quiz.py
 
-Scroll down → **Commit changes**.
-
----
-
-## 3️⃣ Add `vocab.csv`
-
-In the repo:
-
-1. Click **“Add file” → “Create new file”**
-2. File name: `vocab.csv`
-3. Paste this inside to start:
-
-```csv
-german,english
-Haus,house
-Baum,tree
-Wasser,water
-Buch,book
-Freund,friend
-Liebe,love
-Arzt,doctor
-Stadt,city
-Essen,food
-Zeit,time
-Spiel,game
+ame
