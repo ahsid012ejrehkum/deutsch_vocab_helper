@@ -27,5 +27,3 @@ It's a simple project to practice:
 
 ```bash
 python vocab_quiz.py
-
-ame
